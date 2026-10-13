@@ -237,3 +237,5 @@ Contributions, feedback, and feature requests are welcome:
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+#   S m a r t C a r t - E - C o m m e r c e - C u s t o m e r - S e g m e n t a t i o n  
+ 
