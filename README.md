@@ -40,22 +40,6 @@ Modern e-commerce retail generates vast amounts of omnichannel transactional dat
 
 ---
 
-## 👥 Customer Personas & Behavioral Profiles
-
-The unsupervised clustering pipeline identifies **4 distinct customer segments**:
-
-```
-                                  [ All Customers (N=2,236) ]
-                                               │
-                       ┌───────────────────────┴───────────────────────┐
-             [ Partner Households ]                           [ Solo Households ]
-                       │                                               │
-           ┌───────────┴───────────┐                       ┌───────────┴───────────┐
-      [ Budget ]             [ Affluent ]             [ Budget ]             [ Affluent ]
-      Cluster 0              Cluster 1                Cluster 2              Cluster 3
-  "Budget Families"     "Power Couples VIP"       "Value Singles"        "Elite Trendsetters"
-```
-
 ### Segment Matrix
 
 | Cluster ID | Persona Name | Key Demographic | Avg Income | Avg Spend | Primary Channel | Campaign Response | Strategic Playbook |
