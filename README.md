@@ -14,7 +14,7 @@
   <b>Transforming multidimensional customer transactional data into actionable marketing personas, predictive segmentation, and executive revenue intelligence.</b>
 </p>
 
-[Key Features](#-key-features) • [Customer Personas](#-customer-personas--behavioral-profiles) • [ML Pipeline](#-machine-learning-architecture) • [Dashboard Overview](#-interactive-streamlit-dashboard) • [Installation & Usage](#-getting-started) • [Dataset Dictionary](#-dataset-dictionary)
+[Key Features](#-key-features) • [Dashboard Overview](#-interactive-streamlit-dashboard) • [Installation & Usage](#-getting-started) • [Dataset Dictionary](#-dataset-dictionary)
 
 </div>
 
